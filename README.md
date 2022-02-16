@@ -1,7 +1,7 @@
 # Datavisualiatie Les 1!
 
-## Bewerking van een Readme bestand
+## Dit ben ik (Yung-Sandwich)
 
 ![Sandwich](img/sandwich.png)
 
-Kijk op Zuyd.nl (https://www.zuyd.nl/) voor meer informatie!
+Kijk op [Zuyd.nl](https://www.zuyd.nl/) voor meer informatie!
