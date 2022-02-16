@@ -1,7 +1,7 @@
-# Datavisualiatie Les1!
+# Datavisualiatie Les 1!
 
-## Readme bestand bewerken
+## Bewerking van een Readme bestand
 
-! [Sandwich (Me)] (img/sandwich.png)
+[Sandwich (Me)] (img/sandwich.png)
 
-Kijk op [Zuyd.nl] (https://www.zuyd.nl/) voor meer informatie!
+Kijk op Zuyd.nl (https://www.zuyd.nl/) voor meer informatie!
